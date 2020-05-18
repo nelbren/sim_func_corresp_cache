@@ -1,3 +1,4 @@
+# encoding: utf-8
 f=open('datos.txt','r')
 valores=f.read()
 valores=valores.split()
